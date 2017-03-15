@@ -19,6 +19,9 @@
         <br />
         hello world<br />
         <br />
+        <asp:Button ID="Button2" runat="server" Text="Button" />
+        <br />
+        <br />
     
     </div>
     </form>
